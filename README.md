@@ -1,2 +1,2 @@
 # parametric-bongo-tie
-generates a bongo tie with userdefined height 
+generates a bongo tie with user defined height 
